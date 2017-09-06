@@ -85,7 +85,7 @@ void body (int bx,int by)
    fill (198,33,30);
    bezier(bx+140,by+100, bx+170,by+270,bx+170,by+170,bx+405,by+270);
    fill (224,26,23);
-   arc (bx+180,by+165,200,110,11*PI/8, 17*PI/8, PIE);
+   arc (bx+180,by+165,200,110,11*PI/8, 17*PI/8);
 }
 
 
