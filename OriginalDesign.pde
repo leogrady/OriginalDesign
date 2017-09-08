@@ -67,7 +67,7 @@ void body (int bx,int by)
     //body
    stroke (137,12,10);
    fill (137,12,10);
-   arc(bx+200,by+150,250,180,PI/8,10*PI/8,PIE);
+   arc(bx+200,by+150,250,180,PI/8,10*PI/8);
    stroke (3,3,3);
    fill (3,3,3);
    triangle (bx+245,by+165,bx+300,by+205,bx+320,by+184);
